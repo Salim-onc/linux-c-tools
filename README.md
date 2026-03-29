@@ -1,4 +1,4 @@
-# Linux File Lister Tool (in C)
+# Linux File Lister Tool
 
 A simple command-line tool that lists files in a directory and displays their sizes in bytes. This project was built as a learning exercise for **C programming** and **Linux system programming**.
 
