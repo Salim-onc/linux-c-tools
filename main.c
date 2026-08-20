@@ -1,3 +1,4 @@
+/* A command line utility to list the files in a directory */
 #include <stdio.h>
 #include <stdlib.h>
 #include <dirent.h>
